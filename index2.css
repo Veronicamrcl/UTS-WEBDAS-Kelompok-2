@@ -13,3 +13,11 @@ body{
 a {
     color: #31326F;
 }
+#title {
+    margin: auto;
+    padding: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #07689F;
+    text-align: center;
+    font-size: 80px;
+}
