@@ -1,0 +1,25 @@
+#title {
+    margin: auto;
+    padding: auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: gold;
+    text-align: center;
+    font-size: 80px;
+}
+
+
+p{ font-size: xx-large;
+   text-align: center;
+   
+
+}
+a {
+    color: khaki;
+}
+body{
+    background-image: url(background.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+}
