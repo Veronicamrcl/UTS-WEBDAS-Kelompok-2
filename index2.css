@@ -1,0 +1,15 @@
+#atas {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    background-color: #9DDFD3;
+    position: absolute;
+    left: 0px; right: 0px; top: 0px;
+    font-size: large;
+}
+body{ 
+    background-color: #FFC93C;
+}
+a {
+    color: #31326F;
+}
