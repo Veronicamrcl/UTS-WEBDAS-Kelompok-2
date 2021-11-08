@@ -29,3 +29,11 @@ body{
     left: 0px; right: 0px; top: 0px;
     font-size: large;
 }
+img {
+    border-radius: 50%;
+    position: absolute; 
+    right: 10px;
+    width: 100px;
+    height: 100px; 
+    bottom: 10px;
+}
