@@ -25,7 +25,7 @@ body{
 
 #b {
     border-radius: 50%;
-    position: absolute; 
+    position: fixed; 
     right: 10px;
     width: 100px;
     height: 100px; 
