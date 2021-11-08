@@ -25,3 +25,5 @@ iframe{
     margin: auto;
     display: block;
 }
+a{text-decoration:none;color: black;}
+a:hover{color:#96893f; transition: 0.3s;}
