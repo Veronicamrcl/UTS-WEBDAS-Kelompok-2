@@ -44,3 +44,7 @@ p{ margin-left: auto; margin-left: auto;
     height: 50px;
     border-radius: 50%;
 }
+
+a:hover{
+    color:#96893f; transition: 0.3s;
+}
