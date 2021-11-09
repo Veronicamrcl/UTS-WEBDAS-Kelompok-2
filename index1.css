@@ -16,10 +16,14 @@
 }
 
 
-p{ font-size: xx-large;
+p{ font-size: x-large;
    text-align: center;
-   
-
+    padding: 10px;
+    background-color: turquoise;
+   border-radius: 5cm;
+   width: 300px;
+   margin: auto;
+   margin-bottom: 3cm;
 }
 a {
     color: #31326F;
