@@ -28,6 +28,7 @@ body{
     position: absolute;
     left: 0px; right: 0px; top: 0px;
     font-size: large;
+    word-spacing: 10px;
 }
 img {
     border-radius: 50%;
