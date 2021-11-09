@@ -38,7 +38,7 @@ table {
 p { font-size: x-large;
     text-align: center;
     padding: 10px;
-    background-color: turquoise;
+    background-color: rgba(255, 72, 0, 0.3);
     border-radius: 5cm;
     width: 400px;
     margin: auto;
