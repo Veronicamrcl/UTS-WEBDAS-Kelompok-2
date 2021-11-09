@@ -44,3 +44,9 @@ p { font-size: x-large;
     margin: auto;
     margin-bottom: 3cm;
  }
+button {
+    padding: 10px;
+    border-radius: 12px;
+    background-color: rgba(255, 72, 0, 0.3);
+    border: none;
+}
