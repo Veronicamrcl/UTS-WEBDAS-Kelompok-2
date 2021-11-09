@@ -6,6 +6,7 @@
     position: absolute;
     left: 0px; right: 0px; top: 0px;
     font-size: large;
+    word-spacing: 10px;
 }
 body{ 
     background-color: #FFC93C;
