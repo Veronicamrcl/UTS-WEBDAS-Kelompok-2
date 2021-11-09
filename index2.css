@@ -1,12 +1,11 @@
 #atas {
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 10px;
-    background-color: #9DDFD3;
+    padding: 1cm;
+    background-color: rgba(255, 250, 250, 0.795);
     position: absolute;
     left: 0px; right: 0px; top: 0px;
     font-size: large;
     word-spacing: 10px;
+    position: fixed;
 }
 body{ 
     background-color: #FFC93C;
@@ -28,3 +27,19 @@ iframe{
 }
 a{text-decoration:none;color: black;}
 a:hover{color:#96893f; transition: 0.3s;}
+table {
+    margin-top: 3cm;
+    margin-bottom: 1cm;
+    padding: 1cm;
+    font-size: x-large;
+    background-color: rgba(245, 243, 243, 0.548);
+}
+p { font-size: x-large;
+    text-align: center;
+    padding: 10px;
+    background-color: turquoise;
+    border-radius: 5cm;
+    width: 400px;
+    margin: auto;
+    margin-bottom: 3cm;
+ }
