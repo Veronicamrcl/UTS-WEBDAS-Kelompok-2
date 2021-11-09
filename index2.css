@@ -24,6 +24,7 @@ a {
 iframe{
     margin: auto;
     display: block;
+    background-color: rgba(255, 255, 255, 0.3);
 }
 a{text-decoration:none;color: black;}
 a:hover{color:#96893f; transition: 0.3s;}
